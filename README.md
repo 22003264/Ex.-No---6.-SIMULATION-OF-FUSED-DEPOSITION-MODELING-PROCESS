@@ -22,8 +22,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![6S](https://github.com/JEGADEESH07/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113497131/a3ca37c6-7d75-4440-97cd-e6f9740b90dd)
+
+### Name: Sirisha Reddy
+### Register Number: 212222230103
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
